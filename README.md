@@ -1,9 +1,23 @@
-# Routes
-- bloodmoor (exit: follow path, DoE: fork in path)
-- set TP at DoE
+# D2R Speedrun Cheatsheet
+
+Here's a short cheat sheet for speedrunning D2R containing routes, map reading notes, and random tips. Great for anyone just getting into speedrunning or wanting to have faster ladder season starts.
+
+Please familiarize yourself with [map reading](https://maxroll.gg/d2/resources/map-reading) before using this guide (it's really not complicated).
+
+## Contribution
+
+Feel free to open PRs or issues or reply to [this] reddit thread with suggetions.
+If you're interested in helping maintain LMK!
+
+# Guide
+
+## ACT I
+- bloodmoor (exit: follow path, Den of Evil: fork in path)
+    - set TP at Den of Evil and come back later
 - Cold Plains WP 
     - shrine nearbye, use this WP to find XP shrine
-- complete DoE
+- (optional) Den of Evil 
+    - talk to akara for +1 sp and respec
 - from Cold Plains WP (exit: follow path)
 - Stony Field (underground passage: inside)
     - rakanishu/cairn stones always near path
@@ -31,12 +45,13 @@
 - catacombs lvl 2 (exit: right)
 - catacombs lvl 4 (andariel: fixed layout)
 
-tips:
+### tips
 - get stamina pots
 - skip tainted in catacombs
 
 
-ACT II
+## ACT II
+- make stealth (tal eth in armor) as soon as you hit lvl 18
 - rocky waste (dry hills: some other corner)
     - exit to far oasis in corner but not on the same edge as entrance, could be same corner though!
 - dry hills (far oasis: some other corner, halls of the dead: random inside, WP: random inside)
@@ -62,13 +77,18 @@ ACT II
 - tal rasha's tomb (exit: left)
 - tal rasha's chamber, kill duriel
 
-tips
+### tips
 - drink 4-8 thawing pots before duriel fight to stack cold res, give merc thawing pots too
+- sewer/kill radament quest for +1 sp not worth it, but you may want to do this if you're running for a ladder start
+    - sewers lvl 1 ??
+    - sewers lvl 2 (exit: straight, WP: left)
+    - sewers lvl 3 (radament: left)
 
 
-ACT III
+## ACT III
 
 Map reading on jungle maps is different here, generally speaking:
+
 - each area is a 2x6 grid of tiles 
 - tiles are either river or alcoves
 - alcoves may contain camp which have entrances marked by 2 poles followed by a narrow tree path
@@ -86,24 +106,17 @@ Map reading on jungle maps is different here, generally speaking:
 - flayer jungle
     - flayer dungeon in alcove tile, could be same as WP tile?
     - WP in alcove tile
+
 See [ACT III jungle map reading guide](http://www.dos486.com/diablo/jungle/) for additional rules for alcove/tile placement not covered here
 For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
 
-
-extras:
-- the first unique drops the jade figurine, you can kill the unique spider in spider caven to get it
-    - jade figurine -> deckard cain -> meshif (golden bird) -> cain -> alkor -> leave town -> come back and talk to alkor for potion -> drink option for +20hp
-    - plan this accordingly with your trips since alkor is far
-- (hell run) at some point, buy teleport staff from ormus before lvl 24, it will be highlighted in red, make sure you have enough gold! 
-    - you can also do this in act II nightmare for a shorter walk path to vendor but no highlighting
-
-
-route:
+### route
 - spider forest
     - spider cavern in alcove camp tile
     - WP in alcove camp tile
     - check for direct flayer jungle entrance from spider forest, otherwise go through great marsh
 - spider cavern (fixed layout, kahlim's eye: SW from entrance?)
+    - kill the spider for jade figurine if you haven't found it already
 - flayer jungle (exit to lower kurast on row 6)
 - flayer dungeon lvl 1-2 (exit: left)
 - flayer dungeon 3 (several fixed layouts, khalim's brain: see layouts)
@@ -121,8 +134,17 @@ route:
 - durance of hate lvl 3 (fixed layout, mephisto: NW from entrance)
 - (hell run) take mehpisto's soulstone
 
+### tips
+- the first unique drops the jade figurine, you can kill the unique spider in spider caven to get it
+    - jade figurine -> deckard cain -> meshif (golden bird) -> cain -> alkor -> leave town -> come back and talk to alkor for potion -> drink option for +20hp
+    - plan this accordingly with your trips since alkor is far
+- (hell run) at some point, buy teleport staff from ormus before lvl 24, it will be highlighted in red, make sure you have enough gold! 
+    - you can also do this in act II nightmare for a shorter walk path to vendor but no highlighting
 
-ACT IV
+
+
+
+## ACT IV
 - outer steppes (exit: some edge besides NW edge)
 - (optional) drop a TP near exit and come back later to kill izual then talk to tyrael for +1 sp
 - plains of despair (exit: some edge besides entry edge)
@@ -133,13 +155,17 @@ ACT IV
 - chaos sanctuary (fixed layout)
     - activate seals and kill diablo
 
+### tips 
+- ral rune in helm for fire res, or ral ort to use in ACT II for hell runs
 
-ACT V
+## ACT V
 
 [frozen river layouts](https://www.reddit.com/media?url=https%3A%2F%2Fpreview.redd.it%2Fzdu27l2pyrv21.png%3Fwidth%3D1500%26format%3Dpng%26auto%3Dwebp%26s%3D56578075e99b77f4ce04232fb5cc4f1a7a6ff1ad)
 
+### route
+
 - bloody foothills (exit: forward)
-    - kill skenk for quest
+    - (optional) kill skenk for larzuk socket quest
 - frigid highlands (exit: forward)
     - WP near entrance
     - long rectangle with entrance and exit on opposite short ends
@@ -156,38 +182,64 @@ ACT V
     - WP til entrance points in same direction as entrance tile :O
 - frozen tundra (exit: opposite edge)
 - ancients way (exit: left, WP: right)
+- should be lvl 20/40/60 for normal/nightmare/hell at this point
 - kill ancients, open saftey TP before activating alter
 - worldstone keep lvl 1/3 (exit: random)
 - worldstone keep lvl 2 (exit: right)
-- throne of destruction, kill baal
-
+- throne of destruction, kill baal (fixed layout)
 
 tips:
 - you can lead all minions out of room and teleport back in to trigger next respawn
-- baal wave skips (TODO link)
+- [baal wave skipping](https://www.youtube.com/watch?v=KqHISxS_XkI)
+    - if you miss the skip, you can lead all minions out of the room and go back in to skip as well which may save time for the last wave (lister the tormentor).
 - shop for 3os shield and make ancients pledge (ral ort tal) before going to nightmare
 
 
 # Items to pick up
-- throwing knives (early on) 
-- wands, scepters, globes
+- pick up wands, scepters, staffs, orbs to sell
+- pick up throwing knives / potions early on to sell
+- gems, jewels and runes to socket or sell
+- rings/ammys duh
 
-
-
-# Items
-- +FCR (usually jewelry/wands)
+# Items to look for
+- 2os light armor for stealth (shop)
+- 2os helms to socket (shop)
+    - ral socket on armor for fire res
+    - diamond/topaz on shield for lightning res
+    - tir rune for mana on kill
+- (hell run) 3os shield for ancients pledge (shop)
+- (hell run) 4os sword for spirit
+- you can use [Larzuk quest reward](https://diablo2.diablowiki.net/Sockets#Normal_Items) on a normal item of the right ilvl to guarantee # of sockets
+- +FCR (jewelry/wands)
     - gamble at lvl 11-15 for FCR rings if desired?
 - +resistances esp +lighting res for ACT II and +fire res for ACT IV 
 - +FRW/FHR on boots
 - +chance for frost nova on gloves
-- half freez duration on gloves
+- half freeze duration on gloves
 
-# Sockets
-- ral socket on armor for fire res (act IV)
-- diamond/topaz on shield for lightning res (act II)
-- tir rune for mana on kill
+# runewords (countess farmable)
+- (tal eth) stealth: armor
+    - ALWAYS
+- (tir ral) leaf: staff
+    - fire druid/sorc only
+- (ral ort tal) ancient's pledge: shield
+    - just do the quest
+    - +resistances
+- (tal thul ort amn) spirit: sword 
+    - +skills/FCR 
+    - casters only
+- (ral tir tal sol) insight: polearm
+    - act 2 merc meapon, for meditation aura
+- (ort sol) lore: helm
+    - +skills
+- (shael eth) rhyme: shield
+    - cannot be frozen
+- (nef lum) smoke: armor
+    - +resistances
+
 
 # random tips
+- /players1-8 to change players, typically p1 for bosses and p8 for everything else
 - toggle legacy graphics when buying potion to left click + yes to buy potions (non rotw only)
 - shift right clikc to buy pots to fill belt, then remove belt to move pots to inventory
 - shift click/# to use potion on merc
@@ -200,6 +252,22 @@ tips:
 - Act II → lightning res ≥ 30–50
 - Act IV → fire res ≥ 50+
 - Act V → cold res helpful but optional
+- Memorize your classes [FCR breakpoints](https://diablo2.diablowiki.net/Breakpoints#Faster_Cast_Rate)
+
+# Character Specific Guides
+
+## Amazon Builds
+[from Kano's normal run](https://www.youtube.com/watch?v=aZ5aTA3uDgs)
+- poison jav -> plague jav
+- respec into charged strike just before fighting Diablo
+    - extra points can go into power strike for synergy
+[from MrLlamas HC hell run](https://www.youtube.com/watch?v=d96Eb4YpZlQ&t=6011s)
+- poison jav -> plague jav -> pierce
+- respec into lighting fury around lvl 48/act III nightmare
+    - 1 pt dodge avoid evade
+    - 5 pt pierce
+    - lighting fury -> charged strike
+    - extra points can go into lighting bolt for synergy
 
 
 # RESOURCES
@@ -207,4 +275,4 @@ tips:
 - [map reading (best one)](https://maxroll.gg/d2/resources/map-reading)
 - [ACT III jungle map reading guide](http://www.dos486.com/diablo/jungle/)
 - [beginner's speedrunning guide](https://www.youtube.com/watch?v=k4ThP-aRVNA&t=335s)
-- [breakpoints](https://diablo2.diablowiki.net/Breakpoints#Faster_Cast_Rate)
+- 
