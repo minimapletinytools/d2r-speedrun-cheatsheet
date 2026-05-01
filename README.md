@@ -6,7 +6,7 @@ Please familiarize yourself with [map reading](https://maxroll.gg/d2/resources/m
 
 ## Contribution
 
-Feel free to open PRs or issues or reply to [this] reddit thread with suggetions.
+Feel free to open PRs or issues or reply to [this] reddit thread with suggetions. Would love to get uber routes and more character guides.
 If you're interested in helping maintain LMK!
 
 # Guide
@@ -37,7 +37,7 @@ If you're interested in helping maintain LMK!
 - barracks (exit: left/straight, horadric malus: left-straight)
 - (optional) get horadric malus and talk to charsi for imbue
 - jail lvl 1 (wp: left, exit: straight, or left from WP)
-    - (optional sorc) if lucky, there will be champion fallen one tile from WP you can farm for XP for 18
+    - (optional jail strat) if lucky, there will be champion fallen one tile from WP you can farm for XP for lvl 18 (this is the best place to farm XP)
 - jail lvl 2 (exit: straight)
 - jail lvl 3 (exit: left)
 - inner cloister (fixed layout, WP: center, exit: NE)
@@ -78,6 +78,8 @@ If you're interested in helping maintain LMK!
 - tal rasha's chamber, kill duriel
 
 ### tips
+- from entering ACT II it's faster to talk to warriv and go back to ACT I and use the WP there
+- after beating duriel it's faster to walk up to the top of the palace and TP to get back to town and talk to Meshif to sail east
 - drink 4-8 thawing pots before duriel fight to stack cold res, give merc thawing pots too
 - sewer/kill radament quest for +1 sp not worth it, but you may want to do this if you're running for a ladder start
     - sewers lvl 1 ??
@@ -122,11 +124,15 @@ For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
 - flayer dungeon 3 (several fixed layouts, khalim's brain: see layouts)
 - lower kurast (exit: NE corner, WP: random)
 - kurast bazaar (exit to upper kurast: opposite corner of entrance, WP: ranfdom)
-    - sewer entrance: fixed location (you can shortcut through sewers to upper kurast)
+    - sewer entrance: fixed location 
     - ruined temple: (random)
 - (optional) ruined temple
     - kill battlemaid sarina (straight) for lam essen tome and talk to alkor
     - talk to alkor for +5 stats, do this with jade figurine quest to save trips to alkor
+- sewers lvl 1 
+    - exit to lvl 2 is right from sparkling chest
+- sewers lvl 2, grab khalim's brain (fixed layout)
+    - after grabbing heart, go back to sewers lvl1 and find exit straight to upper kurast
 - upper kurast (exit: NE edge of map)
 - travincal (fixed layout, council/fail/exit: straight)
 - durance of hate lvl 1 (exit: left)
@@ -246,7 +252,8 @@ tips:
 - have inventory (right) or char screen (left) open when teleporting for faster teleports in that direction
 - sell tomes to merchants not selling scrolls and buy back for cheaper refills
 - drop gold on the ground in town to avoid losing it  (will despawn after save and exit)
-- (sorc) get telekinesis to activate WP and grab items
+- (sorc) get telekinesis to activate WP and grab items, you can it on portal in arcane sanctuary as well
+
 
 # stat guidelines
 - Act II → lightning res ≥ 30–50
@@ -268,6 +275,21 @@ tips:
     - 5 pt pierce
     - lighting fury -> charged strike
     - extra points can go into lighting bolt for synergy
+
+## Sorc Builds
+[from Kano's WR normal run](https://www.youtube.com/watch?v=M9uot8YFmZ8) 
+- this run goes straight to jail to farm for lvl 18 and is specced for this
+- this run also skips countess/stealth :O
+- shop for FCR wand 
+- charged bolt -> 1 pt telekinesis -> frost nova -> 1 pt teleport -> 1pt firewall 
+    - 1 pt firewall for killing andy
+- all stat points in energy
+- respec at 18 
+    - 1 pt frozen armor, 1 pt frost nova, 1 pt telekinesis, 1 pt teleport
+    - static field -> nova
+    - 50 energy, rest vit and str for equipment
+- grab dessert merc with blessed aim
+
 
 
 # RESOURCES
