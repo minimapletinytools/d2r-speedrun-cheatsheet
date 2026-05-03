@@ -24,7 +24,7 @@ If you're interested in helping maintain LMK!
     - underground passage on border of map or semirandomly somewhere inside?
 - underground passage lvl 1 (exit: straight)
 - dark woods (exit: map edge)
-- black marsh (exit: map edge NEVER on bottom left edge)
+- black marsh (exit: same position as cold plains exit, unless it is SW edge)
 - find forgotten tower and waypoint in blackmarsh (random, set TP at forgotten tower if found first)
 - forgotten tower 1-4 (exit: left) 5 (fixed layout)
 - (optional) kill countess until you find tal eth for stealth, also shop for 2os armor
@@ -42,16 +42,17 @@ If you're interested in helping maintain LMK!
 - jail lvl 3 (exit: left)
 - inner cloister (fixed layout, WP: center, exit: NE)
 - catacombs lvl 1/3 (exit: random)
-- catacombs lvl 2 (exit: right)
+- catacombs lvl 2 (exit: right from WP)
 - catacombs lvl 4 (andariel: fixed layout)
 
 ### tips
 - get stamina pots
-- skip tainted in catacombs
+- skip tainted in catacombs as nova sorc as they have 70% lightning res
+
 
 
 ## ACT II
-- (optional) make stealth (tal eth in armor) as soon as you hit lvl 18
+- (optional) make stealth (tal eth in armor) as soon as you hit lvl 17
 - rocky waste (dry hills: some other corner)
     - exit to far oasis in corner but not on the same edge as entrance, could be same corner though!
 - dry hills (far oasis: some other corner, halls of the dead: random inside, WP: random inside)
@@ -65,7 +66,8 @@ If you're interested in helping maintain LMK!
 - valley of the snakes (fixed layout, claw viper temple: center)
 - claw viper temple 1 (exit: left)
 - claw viper temple 2 (fixed layout, amulet of the viper: center)
-- go back to town and enter palace
+    -(single player) save and exit, talk to warriv, run to palace
+    -(online) tp back and talk to drognan then go to palace
 - harem 1 (fixed layout, exit: from entrance to the left)
 - harem 2 (fixed layout, exit: go straight from entrance)
 - palace cellar 1-2 (fixed layout, exit: go straight from entrance)
@@ -81,6 +83,7 @@ If you're interested in helping maintain LMK!
 - from entering ACT II it's faster to talk to warriv and go back to ACT I and use the WP there
 - after beating duriel it's faster to walk up to the top of the palace and TP to get back to town and talk to Meshif to sail east
 - drink 4-8 thawing pots before duriel fight to stack cold res, give merc thawing pots too
+- ort rune in shield/helm for lightning res, but make sure you have runes for spirit/ancient's pledge for hell urns
 - sewer/kill radament quest for +1 sp not worth it, but you may want to do this if you're running for a ladder start
     - sewers lvl 1 ??
     - sewers lvl 2 (exit: straight, WP: left)
@@ -94,36 +97,36 @@ Map reading on jungle maps is different here, generally speaking:
 - each area is a 2x6 grid of tiles 
 - tiles are either river or alcoves
 - river tiles are all connected
-- alcoves may contain camp which have entrances marked by 2 poles followed by a narrow tree path
+- alcoves may contain camps which have entrances marked by 2 poles followed by a narrow tree path
+- there are generally speaking 3 alcoves: WP, Nothing, and Cavern/Dungeon.
 - entrance to next jungle area could be on either tile type
 - spider forest
     - entrance from kurast dock always at bottom
-    - arachnid lair / spider cavern entrance in a camp alcove tile
+    - arachnid lair / spider cavern entrance in a alcove tile
     - WP next to arachnid lair entrance
     - ALWAYS has exit to great marsh on row 3 5 or 6
     - MAY have exit to flayer jungle, This Exit can be on row 3, 5, or 6 of the grid under the condition that the Exit to Great Marsh is on the same row (or tile?) or an earlier row!
 - great marsh
     - entrance from spider forest always at bottom 
-    - WP in alcove tile
-    - MAY have exit to flayer jungle
+    - MAY have exit to flayer jungle on row 3 5 or 6
 - flayer jungle
-    - flayer dungeon in alcove tile, could be same as WP tile?
-    - WP in alcove tile
+    - flayer dungeon on same tile as the gidbinn
+    - In Spider forest, if WP comes before Spider Cavern, then WP must come before Flayer dungeon in Flayer Jungle. BUT the dead end/nothing alcove can be first, second or third.
+- Example: First alcove in Spider Forest is Spider Cavern (this is great, now you don't need to check the other 2 alcoves). Entering Flayer you will want to leave a TP at the first alcove, check the 2nd for Gibdinn&Dungeon, if it's a dead end, then you know your TP is at the correct alcove, go to the third alcove for WP and take it back to your TP.
 
 See [ACT III jungle map reading guide](http://www.dos486.com/diablo/jungle/) for additional rules for alcove/tile placement not covered here
 For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
 
 ### route
 - spider forest
-    - spider cavern in alcove camp tile
-    - WP in alcove camp tile
-    - check for direct flayer jungle entrance from spider forest, otherwise go through great marsh
+    - check for direct flayer jungle entrance from spider forest (marsh skip), otherwise go through great marsh
 - spider cavern (fixed layout, kahlim's eye: SW from entrance?)
     - kill the spider for jade figurine if you haven't found it already
 - flayer jungle (exit to lower kurast on row 6)
 - flayer dungeon lvl 1-2 (exit: left)
 - flayer dungeon 3 (several fixed layouts, khalim's brain: see layouts)
-- lower kurast (exit: NE corner, WP: random)
+- lower kurast (exit: N or E corner, WP: random)
+    -Lower Kurast exit is either North or East corner and is determined by your cold plains exit: if entry into Stony Field is on the NW or SE sides, then exit is N in LK, and if it's NE or SW, then E in LK.
 - kurast bazaar (exit to upper kurast: opposite corner of entrance, WP: random)
     - sewer entrance: fixed location 
     - ruined temple: (random)
@@ -152,7 +155,7 @@ For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
 
 ## ACT IV
 - outer steppes (exit: some edge besides NW edge)
-- (optional) drop a TP near exit and come back later to kill izual then talk to tyrael for +1 sp
+- (optional) drop a TP near exit and come back later to kill izual then talk to tyrael for +2 sp
 - plains of despair (exit: some edge besides entry edge)
 - city of the damned (exit: random, WP: near exit)
 - river of flame (exit: straight, WP: straight)
@@ -162,7 +165,7 @@ For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
     - activate seals and kill diablo
 
 ### tips 
-- ral rune in helm for fire res, or ral ort to use in ACT II for hell runs
+- ral rune in shield/helm for fire res, but make sure you have runes for spirit/ancient's pledge for hell urns
 
 ## ACT V
 
@@ -175,6 +178,7 @@ For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
 - frigid highlands (exit: forward)
     - WP near entrance
     - long rectangle with entrance and exit on opposite short ends
+    - exit is determined by cold plains (just like LK). It's either NW (NW&SE Cold Plains exit) or NE (NE&SW Cold Plains exit).
     - barb cages located in 3 the walls running in the short edge direction of the map, could be 2 cages in one wall
 - (hell run / optional) free barbs for ral ort tal and make ancient pledge in 3os shield for +all res
 - arreat plateau (exit: forward)
@@ -187,9 +191,11 @@ For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
 - glacial trail (frozen tundra: left, WP: back)
     - WP til entrance points in same direction as entrance tile :O
 - frozen tundra (exit: opposite edge)
+    - long rectangle points in the same direction as frigid highlands
 - ancients way (exit: left, WP: right)
-- should be lvl 20/40/60 for normal/nightmare/hell at this point
-- kill ancients, open saftey TP before activating alter
+    - drop a safety TP before going to summit
+    - must be lvl 20/40/60 for normal/nightmare/hell at this point
+- kill ancients
 - worldstone keep lvl 1/3 (exit: random)
 - worldstone keep lvl 2 (exit: right)
 - throne of destruction, kill baal (fixed layout)
@@ -220,31 +226,32 @@ tips:
     - gamble at lvl 11-15 for FCR rings if desired?
 - +resistances esp +lighting res for ACT II and +fire res for ACT IV 
 - +FRW/FHR on boots
+    -Imbue regular boots at level 9 for a chance at 10frw or level 19 for 20frw
 - +chance for frost nova on gloves
 - half freeze duration on gloves
 
 # runewords (countess farmable)
 - (tal eth) stealth: armor
 - (tir ral) leaf: staff
-    - fire druid/sorc only
+    - fire assasin/druid/sorc only
 - (ral ort tal) ancient's pledge: shield
-    - just do the quest
+    - do the quest to get the runes
     - +resistances
 - (tal thul ort amn) spirit: sword 
-    - +skills/FCR 
-    - casters only
+    - +skills/FCR
 - (ral tir tal sol) insight: polearm
     - act 2 merc meapon, for meditation aura
 - (ort sol) lore: helm
-    - +skills
+    - +skills, mana, lightning res
 - (shael eth) rhyme: shield
     - cannot be frozen
 - (nef lum) smoke: armor
-    - +resistances
+    - +resistances, not usually used in speed runs
 
 
 # random tips
-- /players1-8 to change players, typically p1 for bosses and p8 for everything else
+- (single player) /players1-8 to change players, typically p1 for bosses and p8 for everything else
+- (single player) put gold in personal stash, it's not lost on death, (online) put gold in shared stash
 - toggle legacy graphics when buying potion to left click + yes to buy potions (non rotw only)
 - shift right clikc to buy pots to fill belt, then remove belt to move pots to inventory
 - shift click/# to use potion on merc
@@ -282,9 +289,9 @@ tips:
 - shop for FCR wand 
 - charged bolt -> 1 pt telekinesis -> frost nova -> 1 pt teleport -> 1pt firewall 
     - 1 pt firewall for killing andy
-- all stat points in energy
-- respec at 18 (just before fighting duriel in the video, why not just do it earlier?)
-    - 1 pt frozen armor, 1 pt frost nova, 1 pt telekinesis, 1 pt teleport
+- (advanced) enough vit for 100 hp, rest into energy for teleport
+- respec just before fighting duriel so that you have extra energy to teleport through ACT II
+    - 1 pt frost nova, 1 pt telekinesis, 1 pt teleport
     - static field -> nova
     - 50 energy, rest vit and str for equipment
 
@@ -294,4 +301,8 @@ tips:
 - [map reading (best one)](https://maxroll.gg/d2/resources/map-reading)
 - [ACT III jungle map reading guide](http://www.dos486.com/diablo/jungle/)
 - [beginner's speedrunning guide](https://www.youtube.com/watch?v=k4ThP-aRVNA&t=335s)
-- 
+
+
+# Credits
+This guide was made possible by all the amazing guides and videos on this topic online. Also thanks to everyone who gave feedback on [reddit](https://www.reddit.com/r/Diablo_2_Resurrected/comments/1t28iap/comment/ojoalvb/) especially Jymnasium!!
+
