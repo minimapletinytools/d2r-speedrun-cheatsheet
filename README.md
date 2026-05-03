@@ -144,7 +144,7 @@ For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
 
 ### tips
 - the first unique drops the jade figurine, you can kill the unique spider in spider caven to get it
-    - jade figurine -> deckard cain -> meshif (golden bird) -> cain -> alkor -> leave town -> come back and talk to alkor for potion -> drink option for +20hp
+    - jade figurine -> meshif (golden bird) -> alkor (talk 3x times) -> drink option for +20hp
     - plan this accordingly with your trips since alkor is far
 - (hell run) at some point, buy teleport staff from ormus before lvl 24, it will be highlighted in red, make sure you have enough gold! 
     - you can also do this in act II nightmare for a shorter walk path to vendor but no highlighting
