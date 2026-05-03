@@ -6,7 +6,7 @@ Please familiarize yourself with [map reading](https://maxroll.gg/d2/resources/m
 
 ## Contribution
 
-Feel free to open PRs or issues or reply to [this] reddit thread with suggetions. Would love to get uber routes and more character guides.
+Feel free to open PRs or issues or reply to [this](https://www.reddit.com/r/Diablo_2_Resurrected/comments/1t28iap/d2r_speedrunning_cheatsheet/) reddit thread with suggetions. Would love to get uber routes and more character guides.
 If you're interested in helping maintain LMK!
 
 # Guide
