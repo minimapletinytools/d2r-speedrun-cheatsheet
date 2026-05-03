@@ -27,7 +27,7 @@ If you're interested in helping maintain LMK!
 - black marsh (exit: map edge NEVER on bottom left edge)
 - find forgotten tower and waypoint in blackmarsh (random, set TP at forgotten tower if found first)
 - forgotten tower 1-4 (exit: left) 5 (fixed layout)
-- kill countess until you find tal eth for stealth
+- (optional) kill countess until you find tal eth for stealth, also shop for 2os armor
 - tamoe highlands (exit: top right edge)
 - monastry gate/outer cloiser 
     - go straight to WP area
@@ -51,7 +51,7 @@ If you're interested in helping maintain LMK!
 
 
 ## ACT II
-- make stealth (tal eth in armor) as soon as you hit lvl 18
+- (optional) make stealth (tal eth in armor) as soon as you hit lvl 18
 - rocky waste (dry hills: some other corner)
     - exit to far oasis in corner but not on the same edge as entrance, could be same corner though!
 - dry hills (far oasis: some other corner, halls of the dead: random inside, WP: random inside)
@@ -93,13 +93,14 @@ Map reading on jungle maps is different here, generally speaking:
 
 - each area is a 2x6 grid of tiles 
 - tiles are either river or alcoves
+- river tiles are all connected
 - alcoves may contain camp which have entrances marked by 2 poles followed by a narrow tree path
 - entrance to next jungle area could be on either tile type
 - spider forest
     - entrance from kurast dock always at bottom
     - arachnid lair / spider cavern entrance in a camp alcove tile
     - WP next to arachnid lair entrance
-    - ALWAYS has exit to great marsh on row 3 6 or 6
+    - ALWAYS has exit to great marsh on row 3 5 or 6
     - MAY have exit to flayer jungle, This Exit can be on row 3, 5, or 6 of the grid under the condition that the Exit to Great Marsh is on the same row (or tile?) or an earlier row!
 - great marsh
     - entrance from spider forest always at bottom 
@@ -123,7 +124,7 @@ For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
 - flayer dungeon lvl 1-2 (exit: left)
 - flayer dungeon 3 (several fixed layouts, khalim's brain: see layouts)
 - lower kurast (exit: NE corner, WP: random)
-- kurast bazaar (exit to upper kurast: opposite corner of entrance, WP: ranfdom)
+- kurast bazaar (exit to upper kurast: opposite corner of entrance, WP: random)
     - sewer entrance: fixed location 
     - ruined temple: (random)
 - (optional) ruined temple
@@ -132,9 +133,10 @@ For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
 - sewers lvl 1 
     - exit to lvl 2 is right from sparkling chest
 - sewers lvl 2, grab khalim's brain (fixed layout)
-    - after grabbing heart, go back to sewers lvl1 and find exit straight to upper kurast
+    - after grabbing heart, go back to sewers lvl 1 and find exit straight to upper kurast
 - upper kurast (exit: NE edge of map)
-- travincal (fixed layout, council/fail/exit: straight)
+- travincal (fixed layout, exit: straight)
+    -kill council member for flail and break orb
 - durance of hate lvl 1 (exit: left)
 - durance fo hate lvl 2 (exit: straight, WP: left)
 - durance of hate lvl 3 (fixed layout, mephisto: NW from entrance)
@@ -146,8 +148,6 @@ For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
     - plan this accordingly with your trips since alkor is far
 - (hell run) at some point, buy teleport staff from ormus before lvl 24, it will be highlighted in red, make sure you have enough gold! 
     - you can also do this in act II nightmare for a shorter walk path to vendor but no highlighting
-
-
 
 
 ## ACT IV
@@ -176,7 +176,7 @@ For [Flayer Dungeon lvl 3 layouts](https://imgur.com/a/xf07m)
     - WP near entrance
     - long rectangle with entrance and exit on opposite short ends
     - barb cages located in 3 the walls running in the short edge direction of the map, could be 2 cages in one wall
-- (hell run / optional) free barbs for ral ort tal and make ancient pledge in 3os shield to +all res
+- (hell run / optional) free barbs for ral ort tal and make ancient pledge in 3os shield for +all res
 - arreat plateau (exit: forward)
     - long rectangle, entrance in short or long edge near southern corner
     - exit to crystalline passage in center of the further short edge from entrance
@@ -225,7 +225,6 @@ tips:
 
 # runewords (countess farmable)
 - (tal eth) stealth: armor
-    - ALWAYS
 - (tir ral) leaf: staff
     - fire druid/sorc only
 - (ral ort tal) ancient's pledge: shield
@@ -284,12 +283,10 @@ tips:
 - charged bolt -> 1 pt telekinesis -> frost nova -> 1 pt teleport -> 1pt firewall 
     - 1 pt firewall for killing andy
 - all stat points in energy
-- respec at 18 
+- respec at 18 (just before fighting duriel in the video, why not just do it earlier?)
     - 1 pt frozen armor, 1 pt frost nova, 1 pt telekinesis, 1 pt teleport
     - static field -> nova
     - 50 energy, rest vit and str for equipment
-- grab dessert merc with blessed aim
-
 
 
 # RESOURCES
