@@ -25,9 +25,10 @@ If you're interested in helping maintain LMK!
 - underground passage lvl 1 (exit: straight)
 - dark woods (exit: map edge)
 - black marsh (exit: same position as cold plains exit, unless it is SW edge)
-- find forgotten tower and waypoint in blackmarsh (random, set TP at forgotten tower if found first)
-- forgotten tower 1-4 (exit: left) 5 (fixed layout)
-- (optional) kill countess until you find tal eth for stealth, also shop for 2os armor
+- (optional) find forgotten tower and waypoint in blackmarsh (random, set TP at forgotten tower if found first)
+- (optional) forgotten tower 1-4 (exit: left) 5 (fixed layout)
+- (optional) kill countess until you get the runes you need, usually tal eth on normal for stealth
+    - (single player) switch to players 1 for better run drops
 - tamoe highlands (exit: top right edge)
 - monastry gate/outer cloiser 
     - go straight to WP area
