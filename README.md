@@ -238,6 +238,7 @@ tips:
 - (ral ort tal) ancient's pledge: shield
     - do the quest to get the runes
     - +resistances
+    - you can do diamonds in shield for all res too
 - (tal thul ort amn) spirit: sword 
     - +skills/FCR
 - (ral tir tal sol) insight: polearm
@@ -260,6 +261,7 @@ tips:
 - sell tomes to merchants not selling scrolls and buy back for cheaper refills
 - drop gold on the ground in town to avoid losing it  (will despawn after save and exit)
 - (sorc) get telekinesis to activate WP and grab items, you can it on portal in arcane sanctuary as well
+- repair tele staff with ort + chipped gem in cube
 
 
 # stat guidelines
